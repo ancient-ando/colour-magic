@@ -30,3 +30,8 @@ That does not sound good, right?
 ## The Shortcut
 ![CodeCogsEqn](https://github.com/user-attachments/assets/f0e6dc5a-80e5-4cef-9632-7c0edc2aae3c)
 
+## Showcase
+![Showcase](https://github.com/user-attachments/assets/a171d009-a018-4d0f-b18f-3ec981b9299a)
+
+
+
