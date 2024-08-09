@@ -5,6 +5,9 @@ Unlike other available libraries, we make it possible to blend **any numbers of 
 
 ![banner](https://github.com/user-attachments/assets/9853ac23-cdff-4b9d-89ca-309b9f434f94)
 
+## Usage
+Please check [colour_magic.shader](https://github.com/ancient-ando/colour-magic/blob/main/colour_magic.shader)
+
 ## Long Long Ago 
 
 I began this project while reflecting on my oil painting and wondering why I couldn’t recreate it digitally. I soon realized the challenges involved. **The Kubelka-Munk (KM) theory is commonly used for colour blending in industry, but it has its limitations.** 
