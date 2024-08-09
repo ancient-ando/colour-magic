@@ -1,4 +1,4 @@
-# colour-magic
+![svg](https://github.com/user-attachments/assets/a7c771aa-8f16-4e0a-9eff-c6bc3e05a8c2)![CodeCogsEqn](https://github.com/user-attachments/assets/f7d3e4ad-7029-41d9-bb9c-771a0a4cd919)# colour-magic
 **“Color Magic”** is an artistic oil paint blending tool created by and for artists. It is available for **free** use under an MIT license. The tool aims to bridge the gap between physical painting and digital painting. **While it is based on optics and my extensive research, it doesn’t precisely mimic real-life paint behaviour.** Creative adjustments have been made to the algorithm to enhance the gradient and achieve a more realistic appearance.
 
 Unlike other available libraries, we make it possible to blend **any numbers of any base colour** (selected from a given set of colours) in an **efficient and convincing** manner. 
@@ -27,3 +27,6 @@ That does not sound good, right?
 
 **Nontheless, I am by no means a physicist/material scientist, so I had to find a creative (artistic) workaround here.**
 
+
+
+## The Shortcut
