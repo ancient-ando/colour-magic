@@ -24,7 +24,7 @@ Shader "Unlit/Colour Magic"
             #pragma multi_compile_fog
 
             #include "UnityCG.cginc"
-            #include "Magic.hlsl"
+            #include "magic.hlsl"
 
             struct appdata
             {
