@@ -28,4 +28,5 @@ That does not sound good, right?
 **Nontheless, I am by no means a physicist/material scientist, so I had to find a creative (artistic) workaround here.**
 
 ## The Shortcut
-![svg](https://github.com/user-attachments/assets/a7c771aa-8f16-4e0a-9eff-c6bc3e05a8c2)
+![CodeCogsEqn](https://github.com/user-attachments/assets/f0e6dc5a-80e5-4cef-9632-7c0edc2aae3c)
+
