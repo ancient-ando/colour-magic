@@ -14,7 +14,7 @@ Please check [colour_magic.shader](https://github.com/ancient-ando/colour-magic/
 
 I began this project while reflecting on my oil painting and wondering why I couldn’t recreate it digitally. I soon realized the challenges involved. **The Kubelka-Munk (KM) theory is commonly used for colour blending in industry, but it has its limitations.** 
 
-![d193608a58eb4a8719d55927c53a363245843c34](https://github.com/user-attachments/assets/5980dde0-58d7-4ec0-8b4c-824677cc6d7c)
+$$\frac{(1-R_{\infty})^2}{2R_{\infty}} = \frac{a_{0}}{r_{0}} = \frac{K}{S} = \frac{\sum (c_{i}K_{i})}{\sum(c_{i}S_{i})} \approx \frac{\sum (c_{i}K_{i})}{S}$$
 
 We define 
 - K - the absorption coefficients
