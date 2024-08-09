@@ -5,7 +5,7 @@ Unlike other available libraries, we make it possible to blend **any numbers of 
 
 ![banner](https://github.com/user-attachments/assets/9853ac23-cdff-4b9d-89ca-309b9f434f94)
 
-Special thanks to **Sion** for technical support. 
+Special thanks to **S. Fletcher** for technical support. 
 
 ## Usage
 Please check [colour_magic.shader](https://github.com/ancient-ando/colour-magic/blob/main/colour_magic.shader)
