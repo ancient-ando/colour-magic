@@ -1,5 +1,8 @@
-
-
+// ==========================================================
+//  Copyright (c) 2024 Ando Du. All rights reserved.
+//  License: MIT
+//  Authors: Ando Du 
+// ==========================================================
 Shader "Unlit/Colour Magic"
 {
     
