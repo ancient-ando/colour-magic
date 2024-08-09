@@ -5,6 +5,8 @@ Unlike other available libraries, we make it possible to blend **any numbers of 
 
 ![banner](https://github.com/user-attachments/assets/9853ac23-cdff-4b9d-89ca-309b9f434f94)
 
+## Long Long Ago 
+
 I began this project while reflecting on my oil painting and wondering why I couldn’t recreate it digitally. I soon realized the challenges involved. **The Kubelka-Munk (KM) theory is commonly used for colour blending in industry, but it has its limitations.** 
 
 ![d193608a58eb4a8719d55927c53a363245843c34](https://github.com/user-attachments/assets/5980dde0-58d7-4ec0-8b4c-824677cc6d7c)
@@ -20,5 +22,5 @@ This linear formula may not fully capture the intricate behaviour of pigments in
 
 That does not sound good, right? 
 
-**However, I am by no means a physicist/material scientist, so I had to find a creative (artistic) workaround here.**
+**Nontheless, I am by no means a physicist/material scientist, so I had to find a creative (artistic) workaround here.**
 
